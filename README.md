@@ -1,5 +1,5 @@
 # Docker image for MapServer
-
+# GS Change
 The main Mapfile should be in `/etc/mapserver/`.
 
 You can use the image as is and mount a volume in `/etc/mapserver/` to customize it.
